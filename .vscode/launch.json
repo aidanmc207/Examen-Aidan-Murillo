@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MedtriageBackendApplication<medtriage-backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cr.ac.ucr.paraiso.ie.c4h845.medtriage_backend.MedtriageBackendApplication",
+            "projectName": "medtriage-backend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
